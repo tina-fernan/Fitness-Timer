@@ -1,7 +1,8 @@
 {
   "name": "restrr",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
